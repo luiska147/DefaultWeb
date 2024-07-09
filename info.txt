@@ -1,0 +1,6 @@
+critial message
+
+commit#2 during squash actitivy
+
+commit#3 during squash actitiv
+commit#4 during squash actitivy
