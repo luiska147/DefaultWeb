@@ -16,3 +16,4 @@ commit#4 during squash actitivy 9
 commit#4 during squash actitivy 10
 commit#4 during squash actitivy 11
 commit#4 during squash actitivy 12
+commit#4 during squash actitivy 13
